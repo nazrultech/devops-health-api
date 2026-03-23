@@ -1,0 +1,13 @@
+{
+  "name": "devops-health-api",
+  "version": "1.0.0",
+  "description": "Simple health check API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests defined\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
