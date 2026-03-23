@@ -22,6 +22,6 @@ node app.js
 ## GitHub Repo
 https://github.com/nazrultech/devops-health-api
 ## GitLab Repo
-https://gitlab.com/YOUR_USERNAME/devops-health-api
+https://gitlab.com/nazrultech/devops-health-api
 ## Live URL
 https://devops-health-api.onrender.com/health
